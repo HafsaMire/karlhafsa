@@ -24,7 +24,11 @@ var robot2 = Cylon.robot({
 
   work: function(my) {
     every((0.5).second(), my.led.toggle);
-    
+     });
+        }
+      
+
+    });
 
   
    robot2.start();// cyclon start doesnot work as provided by the examples.
