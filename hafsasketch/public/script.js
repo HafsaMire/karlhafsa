@@ -1,5 +1,5 @@
 var socket = null;
-var postresult = "LED is blinking.";
+var postresult = "LED is blinking..";
 
 
 
