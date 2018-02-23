@@ -28,7 +28,7 @@ var robot2 = Cylon.robot({
     }).start();
 
   
-   robot2.start();  
+   robot2.start();// cyclon start doesnot work as provided by the examples.
 
 
   
